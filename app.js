@@ -161,548 +161,548 @@ var PHOTO_SET = [
 // }
 
 {
-  src: '/wedding-gifs/2015-4-11-74407-M.gif',
+  src: 'wedding-gifs/2015-4-11-74407-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-74407-M.gif'
+    src: 'wedding-gifs/2015-4-11-74407-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-74480-M.gif',
+  src: 'wedding-gifs/2015-4-11-74480-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-74480-M.gif'
+    src: 'wedding-gifs/2015-4-11-74480-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-74554-M.gif',
+  src: 'wedding-gifs/2015-4-11-74554-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-74554-M.gif'
+    src: 'wedding-gifs/2015-4-11-74554-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-74632-M.gif',
+  src: 'wedding-gifs/2015-4-11-74632-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-74632-M.gif'
+    src: 'wedding-gifs/2015-4-11-74632-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-74741-M.gif',
+  src: 'wedding-gifs/2015-4-11-74741-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-74741-M.gif'
+    src: 'wedding-gifs/2015-4-11-74741-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-74844-M.gif',
+  src: 'wedding-gifs/2015-4-11-74844-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-74844-M.gif'
+    src: 'wedding-gifs/2015-4-11-74844-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-74936-M.gif',
+  src: 'wedding-gifs/2015-4-11-74936-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-74936-M.gif'
+    src: 'wedding-gifs/2015-4-11-74936-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-75008-M.gif',
+  src: 'wedding-gifs/2015-4-11-75008-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-75008-M.gif'
+    src: 'wedding-gifs/2015-4-11-75008-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-75104-M.gif',
+  src: 'wedding-gifs/2015-4-11-75104-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-75104-M.gif'
+    src: 'wedding-gifs/2015-4-11-75104-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-75179-M.gif',
+  src: 'wedding-gifs/2015-4-11-75179-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-75179-M.gif'
+    src: 'wedding-gifs/2015-4-11-75179-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-75281-M.gif',
+  src: 'wedding-gifs/2015-4-11-75281-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-75281-M.gif'
+    src: 'wedding-gifs/2015-4-11-75281-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-76175-M.gif',
+  src: 'wedding-gifs/2015-4-11-76175-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-76175-M.gif'
+    src: 'wedding-gifs/2015-4-11-76175-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-76255-M.gif',
+  src: 'wedding-gifs/2015-4-11-76255-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-76255-M.gif'
+    src: 'wedding-gifs/2015-4-11-76255-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-76466-M.gif',
+  src: 'wedding-gifs/2015-4-11-76466-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-76466-M.gif'
+    src: 'wedding-gifs/2015-4-11-76466-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-76551-M.gif',
+  src: 'wedding-gifs/2015-4-11-76551-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-76551-M.gif'
+    src: 'wedding-gifs/2015-4-11-76551-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-76626-M.gif',
+  src: 'wedding-gifs/2015-4-11-76626-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-76626-M.gif'
+    src: 'wedding-gifs/2015-4-11-76626-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-76715-M.gif',
+  src: 'wedding-gifs/2015-4-11-76715-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-76715-M.gif'
+    src: 'wedding-gifs/2015-4-11-76715-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-76806-M.gif',
+  src: 'wedding-gifs/2015-4-11-76806-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-76806-M.gif'
+    src: 'wedding-gifs/2015-4-11-76806-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-76896-M.gif',
+  src: 'wedding-gifs/2015-4-11-76896-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-76896-M.gif'
+    src: 'wedding-gifs/2015-4-11-76896-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-77000-M.gif',
+  src: 'wedding-gifs/2015-4-11-77000-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-77000-M.gif'
+    src: 'wedding-gifs/2015-4-11-77000-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-77082-M.gif',
+  src: 'wedding-gifs/2015-4-11-77082-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-77082-M.gif'
+    src: 'wedding-gifs/2015-4-11-77082-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-77165-M.gif',
+  src: 'wedding-gifs/2015-4-11-77165-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-77165-M.gif'
+    src: 'wedding-gifs/2015-4-11-77165-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-77259-M.gif',
+  src: 'wedding-gifs/2015-4-11-77259-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-77259-M.gif'
+    src: 'wedding-gifs/2015-4-11-77259-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-77337-M.gif',
+  src: 'wedding-gifs/2015-4-11-77337-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-77337-M.gif'
+    src: 'wedding-gifs/2015-4-11-77337-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-77426-M.gif',
+  src: 'wedding-gifs/2015-4-11-77426-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-77426-M.gif'
+    src: 'wedding-gifs/2015-4-11-77426-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-77492-M.gif',
+  src: 'wedding-gifs/2015-4-11-77492-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-77492-M.gif'
+    src: 'wedding-gifs/2015-4-11-77492-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-77601-M.gif',
+  src: 'wedding-gifs/2015-4-11-77601-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-77601-M.gif'
+    src: 'wedding-gifs/2015-4-11-77601-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-77680-M.gif',
+  src: 'wedding-gifs/2015-4-11-77680-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-77680-M.gif'
+    src: 'wedding-gifs/2015-4-11-77680-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-77766-M.gif',
+  src: 'wedding-gifs/2015-4-11-77766-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-77766-M.gif'
+    src: 'wedding-gifs/2015-4-11-77766-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-77891-M.gif',
+  src: 'wedding-gifs/2015-4-11-77891-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-77891-M.gif'
+    src: 'wedding-gifs/2015-4-11-77891-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-78030-M.gif',
+  src: 'wedding-gifs/2015-4-11-78030-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-78030-M.gif'
+    src: 'wedding-gifs/2015-4-11-78030-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-78120-M.gif',
+  src: 'wedding-gifs/2015-4-11-78120-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-78120-M.gif'
+    src: 'wedding-gifs/2015-4-11-78120-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-78199-M.gif',
+  src: 'wedding-gifs/2015-4-11-78199-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-78199-M.gif'
+    src: 'wedding-gifs/2015-4-11-78199-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-78277-M.gif',
+  src: 'wedding-gifs/2015-4-11-78277-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-78277-M.gif'
+    src: 'wedding-gifs/2015-4-11-78277-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-78371-M.gif',
+  src: 'wedding-gifs/2015-4-11-78371-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-78371-M.gif'
+    src: 'wedding-gifs/2015-4-11-78371-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-78475-M.gif',
+  src: 'wedding-gifs/2015-4-11-78475-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-78475-M.gif'
+    src: 'wedding-gifs/2015-4-11-78475-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-78581-M.gif',
+  src: 'wedding-gifs/2015-4-11-78581-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-78581-M.gif'
+    src: 'wedding-gifs/2015-4-11-78581-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-78663-M.gif',
+  src: 'wedding-gifs/2015-4-11-78663-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-78663-M.gif'
+    src: 'wedding-gifs/2015-4-11-78663-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-78749-M.gif',
+  src: 'wedding-gifs/2015-4-11-78749-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-78749-M.gif'
+    src: 'wedding-gifs/2015-4-11-78749-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-78828-M.gif',
+  src: 'wedding-gifs/2015-4-11-78828-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-78828-M.gif'
+    src: 'wedding-gifs/2015-4-11-78828-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-79069-M.gif',
+  src: 'wedding-gifs/2015-4-11-79069-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-79069-M.gif'
+    src: 'wedding-gifs/2015-4-11-79069-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-79160-M.gif',
+  src: 'wedding-gifs/2015-4-11-79160-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-79160-M.gif'
+    src: 'wedding-gifs/2015-4-11-79160-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-79240-M.gif',
+  src: 'wedding-gifs/2015-4-11-79240-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-79240-M.gif'
+    src: 'wedding-gifs/2015-4-11-79240-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-79326-M.gif',
+  src: 'wedding-gifs/2015-4-11-79326-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-79326-M.gif'
+    src: 'wedding-gifs/2015-4-11-79326-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-79413-M.gif',
+  src: 'wedding-gifs/2015-4-11-79413-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-79413-M.gif'
+    src: 'wedding-gifs/2015-4-11-79413-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-79537-M.gif',
+  src: 'wedding-gifs/2015-4-11-79537-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-79537-M.gif'
+    src: 'wedding-gifs/2015-4-11-79537-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-79622-M.gif',
+  src: 'wedding-gifs/2015-4-11-79622-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-79622-M.gif'
+    src: 'wedding-gifs/2015-4-11-79622-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-79701-M.gif',
+  src: 'wedding-gifs/2015-4-11-79701-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-79701-M.gif'
+    src: 'wedding-gifs/2015-4-11-79701-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-79818-M.gif',
+  src: 'wedding-gifs/2015-4-11-79818-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-79818-M.gif'
+    src: 'wedding-gifs/2015-4-11-79818-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-79960-M.gif',
+  src: 'wedding-gifs/2015-4-11-79960-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-79960-M.gif'
+    src: 'wedding-gifs/2015-4-11-79960-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-80032-M.gif',
+  src: 'wedding-gifs/2015-4-11-80032-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-80032-M.gif'
+    src: 'wedding-gifs/2015-4-11-80032-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-80092-M.gif',
+  src: 'wedding-gifs/2015-4-11-80092-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-80092-M.gif'
+    src: 'wedding-gifs/2015-4-11-80092-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-80145-M.gif',
+  src: 'wedding-gifs/2015-4-11-80145-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-80145-M.gif'
+    src: 'wedding-gifs/2015-4-11-80145-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-80198-M.gif',
+  src: 'wedding-gifs/2015-4-11-80198-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-80198-M.gif'
+    src: 'wedding-gifs/2015-4-11-80198-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-80274-M.gif',
+  src: 'wedding-gifs/2015-4-11-80274-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-80274-M.gif'
+    src: 'wedding-gifs/2015-4-11-80274-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-80449-M.gif',
+  src: 'wedding-gifs/2015-4-11-80449-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-80449-M.gif'
+    src: 'wedding-gifs/2015-4-11-80449-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-80629-M.gif',
+  src: 'wedding-gifs/2015-4-11-80629-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-80629-M.gif'
+    src: 'wedding-gifs/2015-4-11-80629-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-80716-M.gif',
+  src: 'wedding-gifs/2015-4-11-80716-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-80716-M.gif'
+    src: 'wedding-gifs/2015-4-11-80716-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-80830-M.gif',
+  src: 'wedding-gifs/2015-4-11-80830-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-80830-M.gif'
+    src: 'wedding-gifs/2015-4-11-80830-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-80884-M.gif',
+  src: 'wedding-gifs/2015-4-11-80884-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-80884-M.gif'
+    src: 'wedding-gifs/2015-4-11-80884-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-80980-M.gif',
+  src: 'wedding-gifs/2015-4-11-80980-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-80980-M.gif'
+    src: 'wedding-gifs/2015-4-11-80980-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-81040-M.gif',
+  src: 'wedding-gifs/2015-4-11-81040-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-81040-M.gif'
+    src: 'wedding-gifs/2015-4-11-81040-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-81207-M.gif',
+  src: 'wedding-gifs/2015-4-11-81207-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-81207-M.gif'
+    src: 'wedding-gifs/2015-4-11-81207-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-81285-M.gif',
+  src: 'wedding-gifs/2015-4-11-81285-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-81285-M.gif'
+    src: 'wedding-gifs/2015-4-11-81285-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-81367-M.gif',
+  src: 'wedding-gifs/2015-4-11-81367-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-81367-M.gif'
+    src: 'wedding-gifs/2015-4-11-81367-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-81466-M.gif',
+  src: 'wedding-gifs/2015-4-11-81466-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-81466-M.gif'
+    src: 'wedding-gifs/2015-4-11-81466-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-79760-M.gif',
+  src: 'wedding-gifs/2015-4-11-79760-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-79760-M.gif'
+    src: 'wedding-gifs/2015-4-11-79760-M.gif'
   }
 }, {
-  src: '/wedding-gifs/2015-4-11-80506-M.gif',
+  src: 'wedding-gifs/2015-4-11-80506-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-80506-M.gif'
+    src: 'wedding-gifs/2015-4-11-80506-M.gif'
   }
 }];
 
