@@ -161,12 +161,12 @@ var PHOTO_SET = [
 // }
 
 {
-  src: '/wedding-gifs/2015-4-11-74407-M.gif',
+  src: 'wedding-gifs/2015-4-11-74407-M.gif',
   width: 680,
   height: 1024,
   aspectRatio: 1.5,
   lightboxImage: {
-    src: '/wedding-gifs/2015-4-11-74407-M.gif'
+    src: 'wedding-gifs/2015-4-11-74407-M.gif'
   }
 }, {
   src: 'wedding-gifs/2015-4-11-74480-M.gif',
